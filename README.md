@@ -4,7 +4,7 @@
 CLI for [Shelly Plug / PlugS](https://shelly-api-docs.shelly.cloud/gen1/#shelly-plug-plugs).
 
 
-## Screenshots
+## Screenshot
 ![shellyplugpy](https://user-images.githubusercontent.com/16217416/224556525-0d0f0c92-716f-41c1-a66a-766342ce0112.png)
 
 
